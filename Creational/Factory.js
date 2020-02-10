@@ -39,7 +39,7 @@ class Basketball {
 }
 
 // creating objects
-/*
+
 const factory = new BallFactory();
 
 const myFootball = factory.createBall('football');
@@ -49,8 +49,8 @@ console.log(myFootball.roll()); // The football is rolling.
 console.log(myBasketball.roll()); // The basketball is rolling.
 console.log(myFootball.kick()); // You kicked the football.
 console.log(myBasketball.bounce()); // You bounced the basketball.
-*/
 
-module.exports = {
+
+/* module.exports = {
 	BallFactory,
-};
+}; */
